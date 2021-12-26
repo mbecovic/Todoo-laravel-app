@@ -1,4 +1,4 @@
-#To-do app
+# To-do app
 
 A simple to-do application written in laravel + vue.
 
